@@ -25,6 +25,6 @@ and e-commerce platforms using the modern TypeScript/Next.js stack.
 ## 📬 Find Me
 
 - 🌐 [webarc.one](https://webarc.one)
--  𝕏 [@parthfullstack](https://x.com/parthfullstack)
+-  𝕏  [@parthfullstack](https://x.com/parthfullstack)
 - 💼 [LinkedIn](https://linkedin.com/in/parthfullstack)
 - 📖 [Journal](https://webarc.one/journal)
