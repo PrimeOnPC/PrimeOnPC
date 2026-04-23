@@ -7,6 +7,7 @@ and e-commerce platforms using the modern TypeScript/Next.js stack.
 
 | Project | Description | Stack |
 |---|---|---|
+| [Ecom-Kit](https://ecom-kit.webarc.one) | AI native full commerce stack | Waitlist, COMING SOON |
 | [Shiplog](https://shiplog.webarc.one) | Idea tracking SaaS for developers | Next.js, Prisma, Stripe |
 | [Ayooh Naturals](https://ayoohnaturals.com) | Production e-commerce store | Next.js, PostgreSQL |
 | [auth-setup](https://auth-setup.webarc.one) | Free auth starter template | Next.js, Better Auth |
